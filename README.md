@@ -32,9 +32,9 @@
 
 To comply with the Samsung PRISM Hackathon submission guidelines, the following resources are provided:
 
-- **[PPT] Project Presentation** — [View Presentation (Google Slides)](https://docs.google.com/presentation/d/1kPdo8l9KbqJo6m3gVq0PdPe2hPZWz9sU/edit?usp=sharing)
+- **[PPT] Project Presentation** — [View Presentation (Google Slides)](https://docs.google.com/presentation/d/1kPdo8l9KbqJo6m3gVq0PdPe2hPZWz9sU/edit?usp=sharing) | [Download (Local Repo)](./RVCollegeofEngineering_Finsight.pptx)
 - **[DOC] AI Disclosure** — [View Document (Google Docs)](https://docs.google.com/document/d/1axV_rQcXdtvgnOl4ZNl3TvSrIBVgsguD/edit?usp=sharing) | [Download (Local Repo)](./AI_Disclosure.docx)
-- **[VIDEO] Project Demo** — [Watch Walkthrough (YouTube/Link)](#) *(Please update this link)*
+- **[VIDEO] Project Demo** — [Watch Walkthrough (YouTube/Link)](http://youtube.com/watch?v=LP3W1RlkdJQ) 
 
 ---
 
