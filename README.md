@@ -28,6 +28,16 @@
 
 ---
 
+## 📽️ Submission Materials
+
+To comply with the Samsung PRISM Hackathon submission guidelines, the following resources are provided:
+
+- **[PPT] Project Presentation** — [View Presentation (Google Slides)](https://docs.google.com/presentation/d/1kPdo8l9KbqJo6m3gVq0PdPe2hPZWz9sU/edit?usp=sharing)
+- **[DOC] AI Disclosure** — [View Document (Google Docs)](https://docs.google.com/document/d/1axV_rQcXdtvgnOl4ZNl3TvSrIBVgsguD/edit?usp=sharing) | [Download (Local Repo)](./AI_Disclosure.docx)
+- **[VIDEO] Project Demo** — [Watch Walkthrough (YouTube/Link)](#) *(Please update this link)*
+
+---
+
 ## 📋 Abstract
 
 **FinSight** is a six-skill autonomous agent pipeline that monitors global news, extracts financial entities, retrieves historical analogues, maps impact onto a user's equity portfolio, generates directional trading signals, and delivers explainable alerts to a Telegram chat.
